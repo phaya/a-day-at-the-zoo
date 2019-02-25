@@ -56,7 +56,7 @@ species <- species %>% mutate(color=ifelse(CommonName %in% c("Tigre bengala",
 species <- species %>% mutate(color=ifelse(CommonName %in% c("Humano"), 2, color))
 species <- species %>% mutate(shape=ifelse(CommonName %in% c("Humano"), 1, 0))
 
-pdf(here("images","adayzoo.pdf"))
+pdf(here("images","adayatthezoo.pdf"))
 main_chart <-
     ggplot(data=species, aes(x=MeanOffspring, y=MeanGestation,
                            color=factor(color))) +

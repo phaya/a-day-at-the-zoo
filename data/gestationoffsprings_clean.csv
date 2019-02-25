@@ -1,28 +1,28 @@
-CommonName,MinGestation,MaxGestation,MinOffspring,MaxOffspring,MeanGestation,MeanOffspring,color,shape
-Lobo marino,330,330,1,1,330,1,0,0
-Rinoceronte indio,480,480,1,1,480,1,0,0
-Panda rojo,112,158,1,4,135,2.5,0,0
-Antilope cervicapra,165,165,1,1,165,1,0,0
-Takin,210,210,1,1,210,1,0,0
-Mono capuchino,160,160,1,1,160,1,0,0
-Gamo,240,240,1,1,240,1,0,0
-Elefante asiatico,660,660,1,1,660,1,0,0
-Bisonte,285,285,1,1,285,1,0,0
-Tigre bengala,103,103,2,5,103,3.5,1,0
-Lince,70,70,1,4,70,2.5,1,0
-Leopardo,90,90,1,3,90,2,1,0
-Leon asia,98,105,1,6,14.5,3.5,1,0
-Arrui,160,160,1,2,160,1.5,0,0
-Gacela,180,180,1,1,180,1,0,0
-Jirafa,420,420,1,1,420,1,0,0
-Camello,270,270,1,1,270,1,0,0
-Hipopotamo,240,240,1,1,240,1,0,0
-Babuino,172,172,1,1,172,1,0,0
-Sitatunga,240,240,1,1,240,1,0,0
-Gibon,200,200,1,1,200,1,0,0
-Oso pardo,210,210,1,5,210,3,0,0
-Lobo gris,60,65,5,7,62.5,6,0,0
-Buho real,34,36,2,4,35,3,0,0
-Cabra montesa,165,165,1,1,165,1,0,0
-Muflon,165,165,1,2,165,1.5,0,0
-Humano,280,280,1,1,280,1,2,1
+CommonName,MinGestation,MaxGestation,MinOffspring,MaxOffspring,MeanGestation,MeanOffspring
+Lobo marino,330,330,1,1,330,1
+Rinoceronte indio,480,480,1,1,480,1
+Panda rojo,112,158,1,4,135,2.5
+Antilope cervicapra,165,165,1,1,165,1
+Takin,210,210,1,1,210,1
+Mono capuchino,160,160,1,1,160,1
+Gamo,240,240,1,1,240,1
+Elefante asiatico,660,660,1,1,660,1
+Bisonte,285,285,1,1,285,1
+Tigre bengala,103,103,2,5,103,3.5
+Lince,70,70,1,4,70,2.5
+Leopardo,90,90,1,3,90,2
+Leon asia,98,105,1,6,14.5,3.5
+Arrui,160,160,1,2,160,1.5
+Gacela,180,180,1,1,180,1
+Jirafa,420,420,1,1,420,1
+Camello,270,270,1,1,270,1
+Hipopotamo,240,240,1,1,240,1
+Babuino,172,172,1,1,172,1
+Sitatunga,240,240,1,1,240,1
+Gibon,200,200,1,1,200,1
+Oso pardo,210,210,1,5,210,3
+Lobo gris,60,65,5,7,62.5,6
+Buho real,34,36,2,4,35,3
+Cabra montesa,165,165,1,1,165,1
+Muflon,165,165,1,2,165,1.5
+Humano,280,280,1,1,280,1
