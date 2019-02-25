@@ -31,7 +31,7 @@ Several insigths can be extracted:
 
 * Most of the displayed animals has only one offspring. There is a lot of variance in the gestation period betwenn species with only one offspring. 
 * It can be observed a slighty inverse relationship between gestation period and number of offsprings that points out to the original hypothesis. Actually, a regression analysis reveals a correlation of 0.3  It was found that number of offsprings significantly predicts gestation period (β = 0.004, p<.001).  
-* All displayed felines share low gestion periods, and a number of offspring above one.
+* All displayed felines share low gestation periods, and a number of offsprings above one.
 * Elephant and hippopotamus gestation periods multiplies human gestation period by two and three respectively.
 
 ## Dataset

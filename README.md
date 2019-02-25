@@ -22,8 +22,8 @@ Animal's common name are showed in red, except felines that are highlighted in g
 Several insigths can be extracted:
 
 -   Most of the displayed animals has only one offspring. There is a lot of variance in the gestation period betwenn species with only one offspring.
--   It can be observed a slighty inverse relationship between gestation period and number of offsprings that points out to the original hypothesis. Actually, a regression analysis reveals a correlation of 0.3 It was found that extraversion significantly predicted (β = 0.004, p&lt;.001)
--   All displayed felines share low gestion periods, and a number of offspring above one.
+-   It can be observed a slighty inverse relationship between gestation period and number of offsprings that points out to the original hypothesis. Actually, a regression analysis reveals a correlation of 0.3 It was found that number of offsprings significantly predicts gestation period (β = 0.004, p&lt;.001).
+-   All displayed felines share low gestation periods, and a number of offsprings above one.
 -   Elephant and hippopotamus gestation periods multiplies human gestation period by two and three respectively.
 
 Dataset
@@ -40,15 +40,14 @@ Attributes:
 **Important notes**
 
 -   Lion's gestation period unit is weeks instead of days, as it appeared on the Zoo's data sheet.
--   Gestation refers specifically to viviparous animals, although there are non-viviparous species in the dataset. In this case, it should be named incubation instead.
+-   Gestation refers specifically to viviparous animals, although there are non-viviparous species in the dataset. In this case, it should be named as incubation instead.
 
 Dataset is provided in the same format as the original datasheets. Nonetheless, a [cleaned version](/blob/master/data/gestationoffsprings_clean.csv) of the data set is also available.
 
 To Do
 -----
 
--   Translate common name to english
--   Fix human gestation days to 38 weeks?
+-   Translate common names to english
 
 License
 -------
