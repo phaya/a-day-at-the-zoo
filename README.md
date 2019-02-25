@@ -8,7 +8,7 @@ A Day At The Zoo
 
 During a splendid sunny day at the zoo, I was collecting several data facts about animals I saw during the visit. I focused on gestation periods and mean number of offsprings. My first hypothesis was that longer gestation periods lead to fewer number of offsprings, as fetus will develop futher require more space preventing that other embryos grow up.
 
-I performed a very straightforward analysis to test my hipothesis. The results could inspire a [enquiry-based learning](https://en.wikipedia.org/wiki/Inquiry-based_learning) activity for kids that combine outdoor activity, and data analysis.
+I performed a very straightforward [analysis using R](/scripts/analysis.R) to test this hypothesis. The results could inspire a [enquiry-based learning](https://en.wikipedia.org/wiki/Inquiry-based_learning) activity for kids that combine outdoor activity, and data analysis.
 
 Main conclusions
 ----------------
