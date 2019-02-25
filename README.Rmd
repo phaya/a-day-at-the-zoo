@@ -38,11 +38,11 @@ Several insigths can be extracted:
 
 The [dataset](/blob/master/data/gestationoffsprings.csv) was gathered at [Madrid Zoo Acuarium](https://goo.gl/maps/ZUQfrk8Kr7A2) from animal data sheets on 23th Febraury, 2019. It is a non-random sample of the [Zoo's animals](https://www.zoomadrid.com/en/in-the-zoo/animals). All errors are my own.  
 
-Attributes:
+Dataset attributes are:
 
-* CommonName: most widely used name for this species.
-* Gestation: number of days between conception and birth. It can be a single figure or a range.
-* Offspring: number of offsprings produces at a time. It can be a single figure or a range.
+* `CommonName` most widely used name for this species.
+* `Gestation` number of days between conception and birth. It can be a single figure or a range.
+* `Offspring` number of offsprings produces at a time. It can be a single figure or a range.
 
 **Important notes**
 
