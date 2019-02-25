@@ -29,14 +29,14 @@ Animal's common name are showed in red, except felines that are highlighted in g
 
 Several insigths can be extracted: 
 
-* Most of the displayed animals has only one offspring. There is a lot of variance in the gestation period betwenn species with only one offspring. 
+* Most of the displayed animals has only one offspring. There is a lot of variation (70-660 days) in the gestation period between species with only one offspring. 
 * It can be observed a slighty inverse relationship between gestation period and number of offsprings that points out to the original hypothesis. Actually, a regression analysis reveals a correlation of 0.3  It was found that number of offsprings significantly predicts gestation period (β = 0.004, p<.001).  
 * All displayed felines share low gestation periods, and a number of offsprings above one.
 * Elephant and hippopotamus gestation periods multiplies human gestation period by two and three respectively.
 
 ## Dataset
 
-The [dataset](/blob/master/data/gestationoffsprings.csv) was gathered at [Madrid Zoo Acuarium](https://goo.gl/maps/ZUQfrk8Kr7A2) from animal data sheets on 23th Febraury, 2019. It is a non-random sample of the [Zoo's animals](https://www.zoomadrid.com/en/in-the-zoo/animals). All errors are my own.  
+The [dataset](/data/gestationoffsprings.csv) was gathered at [Madrid Zoo Acuarium](https://goo.gl/maps/ZUQfrk8Kr7A2) from animal data sheets on 23th Febraury, 2019. It is a non-random sample of the [Zoo's animals](https://www.zoomadrid.com/en/in-the-zoo/animals). All errors are my own.  
 
 Dataset attributes are:
 
@@ -49,7 +49,7 @@ Dataset attributes are:
 * Lion's gestation period unit is weeks instead of days, as it appeared on the Zoo's data sheet.
 * Gestation refers specifically to viviparous animals, although there are non-viviparous species in the dataset. In this case, it should be named as incubation instead. 
 
-Dataset is provided in the same format as the original datasheets. Nonetheless, a [cleaned version](/blob/master/data/gestationoffsprings_clean.csv) of the data set is also available.
+Dataset is provided in the same format as it appears in zoo's datasheets. Nonetheless, a [cleaned version](/data/gestationoffsprings_clean.csv) of the data set is also available.
 
 ## To Do
 
