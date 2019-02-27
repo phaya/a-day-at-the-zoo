@@ -62,6 +62,7 @@ main_chart <-
                            color=factor(color))) +
         geom_point(aes(shape=factor(shape), alpha=0.95, size=ifelse(shape==1, 4, 1))) +
         geom_text(aes(label=CommonName), check_overlap=TRUE, hjust=0, nudge_x=0.075) + 
+        scale_y_log10() +
         xlim(1, 7) + 
         labs(title="A day at zoo",
              x="# Offsprings", 
@@ -70,7 +71,7 @@ main_chart <-
         theme(legend.position = "none")
 dev.off()
 
-reg <- lm(MeanOffspring ~ MeanGestation, data = species)
+reg <- lm(MeanOffspring ~ log(MeanGestation), data = species)
 summary(reg)
 
 save(main_chart, reg, file = here("data","outcomes.RData"))
